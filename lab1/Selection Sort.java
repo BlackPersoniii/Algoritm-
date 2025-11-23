@@ -16,7 +16,7 @@ public class SelectionSortDemo {
                 }
             }
 
-            // swap
+            
             int temp = A[i];
             A[i] = A[minIndex];
             A[minIndex] = temp;
